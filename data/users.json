@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Shyam",
+        "user-level": "top",
+        "date": "1-jan-2021",
+        "status": "Active",
+        "email": "Shyam@yahoo.com"
+    },
+    {
+        "id": 2,
+        "name": "ali",
+        "user-level": "top",
+        "date": "1-jan-2021",
+        "status": "Active",
+        "email": "ali@yahoo.com"
+    },
+    {
+        "id": 3,
+        "name": "khan",
+        "user-level": "top",
+        "date": "1-jan-2021",
+        "status": "Active",
+        "email": "khan@yahoo.com"
+    },
+    {
+        "id": 4,
+        "name": "ubaid",
+        "user-level": "top",
+        "date": "1-jan-2021",
+        "status": "Active",
+        "email": "ubaid@yahoo.com"
+    },
+    {
+        "id": 5,
+        "name": "aslam",
+        "user-level": "top",
+        "date": "1-jan-2021",
+        "status": "Active",
+        "email": "aslam@yahoo.com"
+    },
+    {
+        "id": 5,
+        "name": "ahmed",
+        "user-level": "top",
+        "date": "1-jan-2021",
+        "status": "Active",
+        "email": "ahmed@yahoo.com"
+    }
+]
